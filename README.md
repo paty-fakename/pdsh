@@ -11,4 +11,4 @@ Chef server is required to preform searchs for nodes.
 Usage
 =====
 
-Simply add recipe[pdsh::genders] to a nodes run\_list
+Simply add recipe[pdsh] to a nodes run\_list
