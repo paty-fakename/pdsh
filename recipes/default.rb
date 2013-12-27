@@ -18,6 +18,7 @@
 #
 
 package 'pdsh' do
+  options '--enablerepo=epel'
   action :install
 end
 
